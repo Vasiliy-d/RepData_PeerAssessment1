@@ -1,5 +1,5 @@
 #Peer assesment 1
-
+  
 Setup `knitr` options.
 
 ```{r set.options}
